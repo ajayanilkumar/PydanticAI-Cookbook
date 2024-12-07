@@ -1,0 +1,5 @@
+python-dotenv
+pydantic-ai
+nest_asyncio
+devtools
+tavily-python
