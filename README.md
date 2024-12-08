@@ -10,6 +10,6 @@ The notebook `WebsearchAgent.ipynb` demonstartes how to create a simple research
 
 The notebook `ResearchAnalystAgent.ipynb` aims to produce dataframes out of the results of a query. The results are validated, as PydanticAI provides a way to add validation functions via the *agent.result_validator* decorator.
 - This notebook can be further improved by maintaining conversation hisory.
-- Can also provide a function for combining resultant dataframes.
+- Can also improve info accuracy my using API's to data proprietors.
 
 
